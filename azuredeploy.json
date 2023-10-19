@@ -95,7 +95,7 @@
     },
     "customData": {
       "type": "securestring",
-      "defaultValue": "apt update;apt upgrade -y;apt install -y kde-plasma-desktop;apt install -y xrdp;systemctl enable xrdp.service;systemctl start xrdp.service;adduser xrdp ssl-cert;ufw allow 3389"
+      "defaultValue": "YXB0IHVwZGF0ZTthcHQgdXBncmFkZSAteTthcHQgaW5zdGFsbCAteSBrZGUtcGxhc21hLWRlc2t0b3A7YXB0IGluc3RhbGwgLXkgeHJkcDtzeXN0ZW1jdGwgZW5hYmxlIHhyZHAuc2VydmljZTtzeXN0ZW1jdGwgc3RhcnQgeHJkcC5zZXJ2aWNlO2FkZHVzZXIgeHJkcCBzc2wtY2VydDt1ZncgYWxsb3cgMzM4OQ=="
     },
     "securityType": {
       "type": "string",
