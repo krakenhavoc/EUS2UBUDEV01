@@ -5,7 +5,7 @@
     "_generator": {
       "name": "bicep",
       "version": "0.22.6.54827",
-      "templateHash": "7020680526985387965"
+      "templateHash": "3519642777187188815"
     }
   },
   "parameters": {
@@ -83,7 +83,7 @@
     },
     "adminPublicKey": {
       "type": "securestring",
-      "defaultValue": "EUS2-DEV-UBU-KEY"
+      "defaultValue": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2fJ59kuCCNga5w0DxqWnhFaaM3xSmwJrIonR1gO2LFXP/aWuFc55Bw10iY/1zdiFutY7oZmt7y6WUSOB6BNxDELvZGFedAD44JZNPr08XJ6ebVMDgHkTlyHJC3kiP2wp7gZ+5KapcfzGQ0Yx9XCu7GsRnXqLObuRJsjqAMl2QbUSK9Pxp32BM/AM+2m/ToSU2oKXycR0GbR0cUWaKVGAKK54jSoOsum8FF7+oL7+Gd5InBvQ2BcAyP92Ujim7zFP3C8kzDSFq65/IQ5542YyxX87g305+bYitfZtOfF854tqcwLhJuMi4Ms473wtKj27P/lqK1eoc+KXRMb8pm/SZaa+TXchGzs+Fx2YktxZ34AqlZ/qhO+4GRkW6X6l/boKx/h6+jsCZ4Xe1wauTJophG22jS6DZ+HTHuEGExQ/bjsSDYAQe+//k4RL67iiy9CzRkqnZ2qYseyj7lXy56NeTBQRGz1xj4sMueygQagXU89qjHanufb+79BHVRRjVXX0= generated-by-azure"
     },
     "patchMode": {
       "type": "string",
