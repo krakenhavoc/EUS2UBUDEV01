@@ -5,7 +5,7 @@
     "_generator": {
       "name": "bicep",
       "version": "0.22.6.54827",
-      "templateHash": "3519642777187188815"
+      "templateHash": "5421947923639907425"
     }
   },
   "parameters": {
@@ -95,7 +95,7 @@
     },
     "customData": {
       "type": "securestring",
-      "defaultValue": "YXB0IHVwZGF0ZTthcHQgdXBncmFkZSAteTthcHQgaW5zdGFsbCAteSBrZGUtcGxhc21hLWRlc2t0b3A7YXB0IGluc3RhbGwgLXkgeHJkcDtzeXN0ZW1jdGwgZW5hYmxlIHhyZHAuc2VydmljZTtzeXN0ZW1jdGwgc3RhcnQgeHJkcC5zZXJ2aWNlO2FkZHVzZXIgeHJkcCBzc2wtY2VydDt1ZncgYWxsb3cgMzM4OQ=="
+      "defaultValue": "[base64('apt update;apt upgrade -y;apt install -y kde-plasma-desktop;apt install -y xrdp;systemctl enable xrdp.service;systemctl start xrdp.service;adduser xrdp ssl-cert;ufw allow 3389')]"
     },
     "securityType": {
       "type": "string",
