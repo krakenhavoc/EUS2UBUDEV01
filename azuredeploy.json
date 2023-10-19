@@ -5,7 +5,7 @@
     "_generator": {
       "name": "bicep",
       "version": "0.22.6.54827",
-      "templateHash": "18283731168743333103"
+      "templateHash": "7020680526985387965"
     }
   },
   "parameters": {
@@ -82,7 +82,8 @@
       "defaultValue": "admin"
     },
     "adminPublicKey": {
-      "type": "securestring"
+      "type": "securestring",
+      "defaultValue": "EUS2-DEV-UBU-KEY"
     },
     "patchMode": {
       "type": "string",
