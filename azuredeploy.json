@@ -79,7 +79,7 @@
     },
     "adminUsername": {
       "type": "string",
-      "defaultValue": "admin"
+      "defaultValue": "luke"
     },
     "adminPublicKey": {
       "type": "securestring",
